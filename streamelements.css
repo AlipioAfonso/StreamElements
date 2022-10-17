@@ -1,3 +1,7 @@
 * {
   background: black !important;
 }
+
+.alert-box {
+  position: absolute;
+}
